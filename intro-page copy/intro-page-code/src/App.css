@@ -1,0 +1,40 @@
+.App {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  padding: 2% 5%;
+}
+
+.Logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2% 5%;
+}
+
+.Infographic {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2% 4%;
+}
+
+.Button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1% 5%;
+}
+
+.Caption {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.Caption2 {
+  text-align: right;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1% 5%;
+}
